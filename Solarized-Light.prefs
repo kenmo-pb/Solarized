@@ -2,8 +2,9 @@
 ;   Color Theme for PureBasic IDE
 ;
 ;   Theme by Ethan Schoonover
-;     https://ethanschoonover.com/solarized/
-;   Adapted for PB by
+;     http://ethanschoonover.com/solarized/
+;   Adapted for PB by Ryan Touk
+;     http://grudlux.com/
  
 [Sections]
 IncludeColors = 1
