@@ -25,3 +25,5 @@ More information on [Wikipedia](https://en.wikipedia.org/wiki/Solarized_(color_s
 Download one or both themes, and install them from within the IDE:
 
 - Preferences > Import/Export > Load from: (browse) > Open > Include Color settings > Import Settings
+
+You can also change themes by menu item or keyboard shortcut with my [ChangeTheme](https://github.com/kenmo-pb/tools) IDE tool.
