@@ -85,5 +85,6 @@ SelectionRepeatColor = RGB(238, 232, 213)
 SelectionRepeatColor_Used = 1
 PlainBackground = RGB(253, 246, 227)
 PlainBackground_Used = 1
+
 ToolsPanel_FrontColor = RGB(101, 123, 131)
 ToolsPanel_BackColor = RGB(253, 246, 227)
