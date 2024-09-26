@@ -21,6 +21,8 @@ More information on [Wikipedia](https://en.wikipedia.org/wiki/Solarized_(color_s
 
 Adapted for PureBasic IDE by [kenmo-pb](https://github.com/kenmo-pb)
 
+See also [Selenized for PureBasic](https://github.com/kenmo-pb/Selenized)
+
 ## Installation
 
 Download one or both themes (`.prefs` files), and import them in the IDE:
