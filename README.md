@@ -19,11 +19,10 @@ Complementary Light and Dark color themes for the PureBasic IDE
 
 More information on [Wikipedia](https://en.wikipedia.org/wiki/Solarized_(color_scheme))
 
+Adapted for PureBasic IDE by [kenmo-pb](https://github.com/kenmo-pb)
 
 ## Installation
 
-Download one or both themes, and install them from within the IDE:
+Download one or both themes (`.prefs` files), and import them in the IDE:
 
-- Preferences > Import/Export > Load from: (browse) > Open > Include Color settings > Import Settings
-
-You can also change themes by menu item or keyboard shortcut with my [ChangeTheme](https://github.com/kenmo-pb/tools) IDE tool.
+- Preferences > Import/Export > Load from: (browse) > Open > Include Color settings > Import Settings > Ok
