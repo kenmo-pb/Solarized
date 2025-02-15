@@ -28,3 +28,5 @@ See also [Selenized for PureBasic](https://github.com/kenmo-pb/Selenized)
 Download one or both themes (`.prefs` files), and import them in the IDE:
 
 - Preferences > Import/Export > Load from: (browse) > Open > Include Color settings > Import Settings > Ok
+
+Or, **since PB 6.20**, just copy the `.prefs` files into your `<PureBasic home>/ColorSchemes/` subfolder (and restart the IDE) to add them to the Preferences > Editor > Coloring dropdown list.
